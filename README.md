@@ -7,3 +7,12 @@ Clustering: Grouping similar data points together without being told what the gr
 Dimensionality Reduction: Compressing massive, complex datasets down to their most critical features without losing vital information (e.g., PCA stripping away noise).
 
 Association Rules: Uncovering hidden "if-then" relationships between variables (e.g., Apriori discovering that people who buy coffee also buy mugs).
+⚡ Why It Matters
+No Labels, No Problem: Manually tagging millions of data points is expensive and slow. Unsupervised algorithms bypass this bottleneck to find insights human experts often completely miss.
+
+🛠️ Common Toolkit
+Scikit-Learn: KMeans, PCA, DBSCAN
+
+SciPy: linkage, dendrogram (Hierarchical Clustering)
+
+Seaborn / Matplotlib: For visualizing the newly discovered structures.
