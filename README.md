@@ -14,5 +14,4 @@ No Labels, No Problem: Manually tagging millions of data points is expensive and
 
 Scikit-Learn: KMeans, PCA, DBSCAN
 
-SciPy: linkage, dendrogram (Hierarchical Clustering)
 
