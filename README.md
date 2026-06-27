@@ -12,6 +12,4 @@ Association Rules: Uncovering hidden "if-then" relationships between variables (
 ⚡ Why It Matters
 No Labels, No Problem: Manually tagging millions of data points is expensive and slow. Unsupervised algorithms bypass this bottleneck to find insights human experts often completely miss.
 
-Scikit-Learn: KMeans, PCA, DBSCAN
-
 
