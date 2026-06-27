@@ -16,4 +16,3 @@ Scikit-Learn: KMeans, PCA, DBSCAN
 
 SciPy: linkage, dendrogram (Hierarchical Clustering)
 
-Seaborn / Matplotlib: For visualizing the newly discovered structures.
