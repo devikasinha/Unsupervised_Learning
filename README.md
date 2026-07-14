@@ -12,4 +12,5 @@ Association Rules: Uncovering hidden "if-then" relationships between variables (
 ⚡ Why It Matters
 No Labels, No Problem: Manually tagging millions of data points is expensive and slow. Unsupervised algorithms bypass this bottleneck to find insights human experts often completely miss.
 
+Clustering is a fundamental task in unsupervised learning where the goal is to group a set of objects in such a way that objects in the same group (called a cluster) are more similar to each other than to those in other groups.
 
